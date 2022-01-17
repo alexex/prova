@@ -1,3 +1,15 @@
- "source": [
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "f98de27e",
+   "metadata": {
+    "slideshow": {
+     "slide_type": "slide"
+    }
+   },
+   "source": [
     "# Quantum Minesweeper: How to see a bomb without looking "
    ]
+  },
+  }
